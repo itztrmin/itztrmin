@@ -33,10 +33,9 @@
 ---
 
 ### / identity
-Current focus: **perfecting UI/UX animations and server infrastructure**
+**Hey, I'm Trmin.**
 
-**interests:**
-web design, glassmorphism, domain acquisition, minecraft network architecture
+I make stuff for the web. Mostly clean UIs, backend/server things, and wasting (all my) time online. I like messing with Linux, fixing broken configs, making projects that i don't need, and spending an unreasonable amount of time making tiny details look better than they need to.
 
 ---
 
