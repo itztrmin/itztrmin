@@ -13,7 +13,8 @@
 ### / projects
 * [v2.0 Portfolio Website](https://yourwebsite.com) — live, focusing on high-end UI/UX and complex animations.
 * [FyrX Bot](https://github.com/itztrmin/FyrX) — Discord bot project.
-* [Luminar Dashboard](https://github.com/itztrmin) — web dashboard infrastructure.
+* [portfolio](https://github.com/itztrmin) —
+My personal digital space. A sleek, high-performance portfolio.
 
 ---
 
