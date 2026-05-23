@@ -14,13 +14,13 @@
 
 <div align="left" style="max-width: 600px; margin: 0 auto;">
 
-🔹 **[NullCats](https://nullcats.pages.dev)** — A scrappy digital community for curious, creative people.
+● **[NullCats](https://nullcats.pages.dev)** — A scrappy digital community for curious, creative people.
 
-🔹 **[Atlasync](https://atlasync.ice.lol)** — Global clocks built specifically for internet creators.
+● **[Atlasync](https://atlasync.ice.lol)** — Global clocks built specifically for internet creators.
 
-🔹 **[FyrX](https://github.com/itztrmin/FyrX)** — A modern, feature-rich, all-in-one future Discord bot.
+● **[FyrX](https://github.com/itztrmin/FyrX)** — A modern, feature-rich, all-in-one future Discord bot.
 
-🔹 **[Portfolio](https://trmin.pages.dev)** — My personal digital space. Sleek and high-performance.
+● **[Portfolio](https://trmin.pages.dev)** — My personal digital space. Sleek and high-performance.
 
 </div>
 
