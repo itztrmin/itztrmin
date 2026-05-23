@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=48&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=itztrmin&repeat=false" alt="itztrmin" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=48&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=itztrmin&repeat=false" alt="ItzTrmin" />
 </p>
 
 <img width="100%" max-width="800px" alt="itztrmin banner" src="https://i.postimg.cc/FHB59Nvj/1000069494-Picsart-Ai-Image-Enhancer-(1).jpg" />
