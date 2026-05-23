@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://glowing-readme-profile-alpha.vercel.app/api?text=itztrmin&font=Architects%20Daughter&fontSize=45&color=ffffff&center=true" alt="itztrmin" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=48&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=itztrmin&repeat=false" alt="itztrmin" />
 </p>
 
 <img width="100%" max-width="800px" alt="itztrmin banner" src="https://i.postimg.cc/cLNZ3DYS/1779537007280.png" />
