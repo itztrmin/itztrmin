@@ -11,9 +11,11 @@
 ---
 
 ### / projects
-* [v2.0 Portfolio Website](https://yourwebsite.com) — live, focusing on high-end UI/UX and complex animations.
+* [NullCats](https://nullcats.pages.dev) —
+**A scrappy digital community for curious, creative people on the internet.**
+* [Atlasync](https://atlasync.ice.lol) — **Global clocks for people who actually build things on the internet.**
 * [FyrX](https://github.com/itztrmin/FyrX) — **A morden all-in-one future Discord bot.**
-* [Portfolio](https://github.com/itztrmin) —
+* [Portfolio](https://trmin.pages.dev) —
 **My personal digital space. A sleek, high-performance portfolio.**
 
 ---
