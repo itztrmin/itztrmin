@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&style=cursive&weight=700&size=44&duration=1&pause=1&color=FFFFFF&center=true&vCenter=true&width=435&lines=itztrmin" alt="itztrmin" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&style=cursive&weight=700&size=44&duration=1&pause=1&color=FFFFFF&center=true&vCenter=true&width=435&lines=ItzTrmin" alt="itztrmin" />
 </p>
 
 <img width="100%" max-width="800px" alt="itztrmin banner" src="https://i.postimg.cc/cLNZ3DYS/1779537007280.png" />
