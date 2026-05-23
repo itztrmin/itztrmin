@@ -11,10 +11,18 @@
 ---
 
 ### / projects
-* [NullCats](https://nullcats.pages.dev) — **A scrappy digital community for curious, creative people on the internet.**
-* [Atlasync](https://atlasync.ice.lol) — **Global clocks for people who actually build things on the internet.**
-* [FyrX](https://github.com/itztrmin/FyrX) — **A modern all-in-one future Discord bot.**
-* [Portfolio](https://trmin.pages.dev) — **My personal digital space. A sleek, high-performance portfolio.**
+
+<div align="left" style="max-width: 600px; margin: 0 auto;">
+
+🔹 **[NullCats](https://nullcats.pages.dev)** — A scrappy digital community for curious, creative people.
+
+🔹 **[Atlasync](https://atlasync.ice.lol)** — Global clocks built specifically for internet creators.
+
+🔹 **[FyrX](https://github.com/itztrmin/FyrX)** — A modern, feature-rich, all-in-one future Discord bot.
+
+🔹 **[Portfolio](https://trmin.pages.dev)** — My personal digital space. Sleek and high-performance.
+
+</div>
 
 ---
 
@@ -25,10 +33,11 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/Discord_API-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
 </p>
 
-`Next.js` • `Framer Motion` • `TypeScript` • `Python`
+`Next.js` • `Framer Motion` • `TypeScript` • `Python` • `Cloudflare`
 
 ---
 
