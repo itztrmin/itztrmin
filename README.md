@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Discord_API-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
 </p>
 
-`Next.js` • `Framer Motion` • `TypeScript` • `Python` • `Cloudflare`
+`Linux` • `Git` • `Bash` • `Python` • `Cloudflare`
 
 ---
 
@@ -49,6 +49,6 @@ I make stuff for the web. Mostly clean UIs, backend/server things, and wasting (
 ---
 
 ### / reach me
-[Discord](https://discord.gg/YOUR_LINK) • [Website](https://trmin.pages.dev)
+[@itztrmin](https://discord.com) • [Portfolio](https://trmin.pages.dev)
 
 </div>
