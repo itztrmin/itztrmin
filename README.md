@@ -7,8 +7,8 @@
 <img width="100%" max-width="800px" alt="itztrmin banner" src="https://i.postimg.cc/FHB59Nvj/1000069494-Picsart-Ai-Image-Enhancer-(1).jpg" />
 
 **developer & student**
-
-*building digital experiences with a focus on aesthetics and performance.*
+[![Discord Presence](https://lanyard.cnrad.dev/api/1287359604736659489)](https://discord.com/users/1287359604736659489)
+building digital experiences with a focus on aesthetics and performance.
 
 ---
 
