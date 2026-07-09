@@ -28,11 +28,11 @@
 ### / identity
 **Hey, I'm Trmin.**
 
-I make stuff for the web. Mostly clean UIs, backend/server things, and wasting (all my) time online. I like messing with Linux, fixing broken configs, making projects that I don't need, and spending an unreasonable amount of time making tiny details look better than they need to.
+I make stuff for the web. Mostly UIs, backend/server things, and wasting (all my) time online. I like messing with Linux, fixing broken configs, making projects that I don't need, and spending an unreasonable amount of time making tiny details look better than they need to.
 
 ---
 
 ### / reach me
-[@itztrmin](https://discord.com) • [Portfolio](https://trmin.pages.dev)
+[@itztrmin](https://discord.com) • [@portfolio](https://trmin.pages.dev)
 
 </div>
