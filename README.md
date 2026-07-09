@@ -8,6 +8,8 @@
 
 **developer & student**
 
+### / discord
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/1287359604736659489?theme=light&bg=DEF8FA&animated=true&animatedDecoration=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/1287359604736659489)
 
 ### / technical stack
