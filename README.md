@@ -1,3 +1,4 @@
+<pre>
 $ trmin
                     XX;+
                 .;;xxxxxxxx;+
@@ -15,13 +16,14 @@ $ trmin
          .xxxx;.xx$$$X$$Xx.....+XX+            
        .+xxXxX;xXX$$$$$$XX.....xXX$;           contacts
       +++xXxx$;+X$$$$$$$$X;;.;.XXXX$X;         --------
-     xx+xxxxXXxx$$$$$$$$$XX$&&&&$XXXx          Instagram: /@itztrmin
+     xx+xxxxXXxx$$$$$$$$$XX$&amp;&amp;&amp;&amp;$XXXx          Instagram: /@itztrmin
      XxxxxxX$XX$$$$$$$$$$$$XXX$$$$xxx+         Discord: @itztrmin
-    xxXXxxxXX$$$$&&&$&&$X$$XXX$$$$xxxx;        Email: trmin@nullcats.org
+    xxXXxxxXX$$$$&amp;&amp;&amp;$&amp;&amp;$X$$XXX$$$$xxxx;        Email: trmin@nullcats.org
    +x++xxxxx$$$$$$$$$$$$XX++x++x$$$xxxX;
   xX..xxxxxx++xXX$$$$$$$X+xXx++x$$$xxx+++.
-  xxXX++++X$&$$XXXX$+;;$xxXX$XX$$Xxx+++++++.
-   +Xx+x++X$&&&$XXx$x..$xX$$XX$$$$+++++++xx;
-   x+xx+++xx&&$XXXxx$$$&$$XxX$xx$X++++++++++
+  xxXX++++X$&amp;$$XXXX$+;;$xxXX$XX$$Xxx+++++++.
+   +Xx+x++X$&amp;&amp;&amp;$XXx$x..$xX$$XX$$$$+++++++xx;
+   x+xx+++xx&amp;&amp;$XXXxx$$$&amp;$$XxX$xx$X++++++++++
    X+X+xx+Xx$XxxxXxx$$$$$XxXXxxX$x++++++x++X
-   ;X.+xxX$$$$$XxXX+$&$XXxXXX$$$Xx++++++x++x
+   ;X.+xxX$$$$$XxXX+$&amp;$XXxXXX$$$Xx++++++x++x
+</pre>
